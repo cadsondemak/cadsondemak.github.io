@@ -1,0 +1,239 @@
+@font-face {
+    font-family: 'Sriracha-Regular';
+    src: url('./fonts/Sriracha-Regular.eot');
+    src: url('./fonts/Sriracha-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Sriracha-Regular.woff2') format('woff2'),
+         url('./fonts/Sriracha-Regular.woff') format('woff'),
+         url('./fonts/Sriracha-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Itim-Regular';
+    src: url('./fonts/Itim-Regular.eot');
+    src: url('./fonts/Itim-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Itim-Regular.woff2') format('woff2'),
+         url('./fonts/Itim-Regular.woff') format('woff'),
+         url('./fonts/Itim-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LobsterThai-Regular';
+    src: url('./fonts/LobsterThai-Regular.eot');
+    src: url('./fonts/LobsterThai-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/LobsterThai-Regular.woff2') format('woff2'),
+         url('./fonts/LobsterThai-Regular.woff') format('woff'),
+         url('./fonts/LobsterThai-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Chonburi-Regular';
+    src: url('./fonts/Chonburi-Regular.eot');
+    src: url('./fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Chonburi-Regular.woff2') format('woff2'),
+         url('./fonts/Chonburi-Regular.woff') format('woff'),
+         url('./fonts/Chonburi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Maitree-Regular';
+    src: url('./fonts/Maitree-Regular.eot');
+    src: url('./fonts/Maitree-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Maitree-Regular.woff2') format('woff2'),
+         url('./fonts/Maitree-Regular.woff') format('woff'),
+         url('./fonts/Maitree-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Pridi-Regular';
+    src: url('./fonts/Pridi-Regular.eot');
+    src: url('./fonts/Pridi-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Pridi-Regular.woff2') format('woff2'),
+         url('./fonts/Pridi-Regular.woff') format('woff'),
+         url('./fonts/Pridi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Athiti-Regular';
+    src: url('./fonts/Athiti-Regular.eot');
+    src: url('./fonts/Athiti-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Athiti-Regular.woff2') format('woff2'),
+         url('./fonts/Athiti-Regular.woff') format('woff'),
+         url('./fonts/Athiti-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Mitr-Regular';
+    src: url('./fonts/Mitr-Regular.eot');
+    src: url('./fonts/Mitr-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Mitr-Regular.woff2') format('woff2'),
+         url('./fonts/Mitr-Regular.woff') format('woff'),
+         url('./fonts/Mitr-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Taviraj-Regular';
+    src: url('./fonts/Taviraj-Regular.eot');
+    src: url('./fonts/Taviraj-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Taviraj-Regular.woff2') format('woff2'),
+         url('./fonts/Taviraj-Regular.woff') format('woff'),
+         url('./fonts/Taviraj-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Trirong-Regular';
+    src: url('./fonts/Trirong-Regular.eot');
+    src: url('./fonts/Trirong-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Trirong-Regular.woff2') format('woff2'),
+         url('./fonts/Trirong-Regular.woff') format('woff'),
+         url('./fonts/Trirong-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Prompt-Regular';
+    src: url('./fonts/Prompt-Regular.eot');
+    src: url('./fonts/Prompt-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Prompt-Regular.woff2') format('woff2'),
+         url('./fonts/Prompt-Regular.woff') format('woff'),
+         url('./fonts/Prompt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Kanit-Regular';
+    src: url('./fonts/Kanit-Regular.eot');
+    src: url('./fonts/Kanit-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Kanit-Regular.woff2') format('woff2'),
+         url('./fonts/Kanit-Regular.woff') format('woff'),
+         url('./fonts/Kanit-Regular.ttf') format('truetype');
+}
+
+<link href='https://fonts.googleapis.com/css?family=Roboto:200,400,900' rel='stylesheet' type='text/css'>
+
+#block-header {
+  background-color: #333;
+  height: 200px;
+}
+
+#header {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-size: 32pt;
+  text-align: center;
+  color: #0099FF;
+}
+
+#text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-menu {
+  padding-bottom: 50px;
+}
+
+#block-1-menu {
+  padding-bottom: 30px;
+}
+
+#block-2-menu {
+  padding-bottom: 30px;
+}
+
+#block-3-menu {
+  padding-bottom: 30px;
+}
+
+#block-4-menu {
+  padding-bottom: 30px;
+}
+
+#block-1-header {
+  font-family: 'Sriracha-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-2-header {
+  font-family: 'Itim-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-3-header {
+  font-family: 'LobsterThai-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-4-header {
+  font-family: 'Chonburi-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-5-header {
+  font-family: 'Maitree-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-6-header {
+  font-family: 'Pridi-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-7-header {
+  font-family: 'Athiti-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-8-header {
+  font-family: 'Mitr-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+#block-9-header {
+  font-family: 'Taviraj-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-10-header {
+  font-family: 'Trirong-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-11-header {
+  font-family: 'Prompt-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+#block-12-header {
+  font-family: 'Kanit-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+footer{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+  font-size: 10pt;
+  text-align: center;
+  padding: 20px;
+}
