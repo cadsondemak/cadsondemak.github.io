@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yoYak-thai" format="1">
+  <advance width="578"/>
+  <unicode hex="0E22"/>
+  <outline>
+    <contour>
+      <point x="351" y="99"/>
+      <point x="287" y="70"/>
+      <point x="238" y="70" type="curve" smooth="yes"/>
+      <point x="163" y="70"/>
+      <point x="124" y="106"/>
+      <point x="124" y="151" type="curve" smooth="yes"/>
+      <point x="124" y="251"/>
+      <point x="286" y="278"/>
+      <point x="286" y="312" type="curve" smooth="yes"/>
+      <point x="286" y="357"/>
+      <point x="180" y="363"/>
+      <point x="180" y="419" type="curve" smooth="yes"/>
+      <point x="180" y="452"/>
+      <point x="285" y="474"/>
+      <point x="285" y="515" type="curve" smooth="yes"/>
+      <point x="285" y="547"/>
+      <point x="235" y="564"/>
+      <point x="197" y="564" type="curve" smooth="yes"/>
+      <point x="127" y="564"/>
+      <point x="77" y="503"/>
+      <point x="77" y="429" type="curve" smooth="yes"/>
+      <point x="77" y="379"/>
+      <point x="124" y="336"/>
+      <point x="164" y="317" type="curve"/>
+      <point x="62" y="284"/>
+      <point x="8" y="227"/>
+      <point x="8" y="158" type="curve" smooth="yes"/>
+      <point x="8" y="65"/>
+      <point x="85" y="-15"/>
+      <point x="221" y="-15" type="curve" smooth="yes"/>
+      <point x="347" y="-15"/>
+      <point x="452" y="54"/>
+      <point x="476" y="143" type="curve" smooth="yes"/>
+      <point x="507" y="257"/>
+      <point x="535" y="380"/>
+      <point x="570" y="516" type="curve"/>
+      <point x="567" y="546"/>
+      <point x="541" y="560"/>
+      <point x="506" y="560" type="curve" smooth="yes"/>
+      <point x="485" y="560"/>
+      <point x="460" y="538"/>
+      <point x="451" y="502" type="curve" smooth="yes"/>
+      <point x="433" y="427"/>
+      <point x="398" y="293"/>
+      <point x="369" y="173" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
