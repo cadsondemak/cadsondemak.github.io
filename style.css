@@ -1,4 +1,238 @@
 @font-face {
+  font-family: 'Sriracha-Regular';
+  src: url('./fonts/Sriracha-Regular.eot');
+  src: url('./fonts/Sriracha-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Sriracha-Regular.woff2') format('woff2'),
+       url('./fonts/Sriracha-Regular.woff') format('woff'),
+       url('./fonts/Sriracha-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Itim-Regular';
+  src: url('./fonts/Itim-Regular.eot');
+  src: url('./fonts/Itim-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Itim-Regular.woff2') format('woff2'),
+       url('./fonts/Itim-Regular.woff') format('woff'),
+       url('./fonts/Itim-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'LobsterThai-Regular';
+  src: url('./fonts/LobsterThai-Regular.eot');
+  src: url('./fonts/LobsterThai-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/LobsterThai-Regular.woff2') format('woff2'),
+       url('./fonts/LobsterThai-Regular.woff') format('woff'),
+       url('./fonts/LobsterThai-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Chonburi-Regular';
+  src: url('./fonts/Chonburi-Regular.eot');
+  src: url('./fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Chonburi-Regular.woff2') format('woff2'),
+       url('./fonts/Chonburi-Regular.woff') format('woff'),
+       url('./fonts/Chonburi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Maitree-Regular';
+  src: url('./fonts/Maitree-Regular.eot');
+  src: url('./fonts/Maitree-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Maitree-Regular.woff2') format('woff2'),
+       url('./fonts/Maitree-Regular.woff') format('woff'),
+       url('./fonts/Maitree-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pridi-Regular';
+  src: url('./fonts/Pridi-Regular.eot');
+  src: url('./fonts/Pridi-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Pridi-Regular.woff2') format('woff2'),
+       url('./fonts/Pridi-Regular.woff') format('woff'),
+       url('./fonts/Pridi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Athiti-Regular';
+  src: url('./fonts/Athiti-Regular.eot');
+  src: url('./fonts/Athiti-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Athiti-Regular.woff2') format('woff2'),
+       url('./fonts/Athiti-Regular.woff') format('woff'),
+       url('./fonts/Athiti-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mitr-Regular';
+  src: url('./fonts/Mitr-Regular.eot');
+  src: url('./fonts/Mitr-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Mitr-Regular.woff2') format('woff2'),
+       url('./fonts/Mitr-Regular.woff') format('woff'),
+       url('./fonts/Mitr-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Taviraj-Regular';
+  src: url('./fonts/Taviraj-Regular.eot');
+  src: url('./fonts/Taviraj-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Taviraj-Regular.woff2') format('woff2'),
+       url('./fonts/Taviraj-Regular.woff') format('woff'),
+       url('./fonts/Taviraj-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Trirong-Regular';
+  src: url('./fonts/Trirong-Regular.eot');
+  src: url('./fonts/Trirong-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Trirong-Regular.woff2') format('woff2'),
+       url('./fonts/Trirong-Regular.woff') format('woff'),
+       url('./fonts/Trirong-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Prompt-Regular';
+  src: url('./fonts/Prompt-Regular.eot');
+  src: url('./fonts/Prompt-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Prompt-Regular.woff2') format('woff2'),
+       url('./fonts/Prompt-Regular.woff') format('woff'),
+       url('./fonts/Prompt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Kanit-Regular';
+  src: url('./fonts/Kanit-Regular.eot');
+  src: url('./fonts/Kanit-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Kanit-Regular.woff2') format('woff2'),
+       url('./fonts/Kanit-Regular.woff') format('woff'),
+       url('./fonts/Kanit-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'K2D-Regular';
+src: url('./fonts/K2D-Regular.eot');
+src: url('./fonts/K2D-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/K2D-Regular.woff2') format('woff2'),
+     url('./fonts/K2D-Regular.woff') format('woff'),
+     url('./fonts/K2D-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Krub-Regular';
+src: url('./fonts/Krub-Regular.eot');
+src: url('./fonts/Krub-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Krub-Regular.woff2') format('woff2'),
+     url('./fonts/Krub-Regular.woff') format('woff'),
+     url('./fonts/Krub-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Sarabun-Regular';
+src: url('./fonts/Sarabun-Regular.eot');
+src: url('./fonts/Sarabun-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Sarabun-Regular.woff2') format('woff2'),
+     url('./fonts/Sarabun-Regular.woff') format('woff'),
+     url('./fonts/Sarabun-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Niramit-Regular';
+src: url('./fonts/Niramit-Regular.eot');
+src: url('./fonts/Niramit-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Niramit-Regular.woff2') format('woff2'),
+     url('./fonts/Niramit-Regular.woff') format('woff'),
+     url('./fonts/Niramit-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Mali-Regular';
+src: url('./fonts/Mali-Regular.eot');
+src: url('./fonts/Mali-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Mali-Regular.woff2') format('woff2'),
+     url('./fonts/Mali-Regular.woff') format('woff'),
+     url('./fonts/Mali-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'KoHo-Regular';
+src: url('./fonts/KoHo-Regular.eot');
+src: url('./fonts/KoHo-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/KoHo-Regular.woff2') format('woff2'),
+     url('./fonts/KoHo-Regular.woff') format('woff'),
+     url('./fonts/KoHo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Kodchasan-Regular';
+src: url('./fonts/Kodchasan-Regular.eot');
+src: url('./fonts/Kodchasan-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Kodchasan-Regular.woff2') format('woff2'),
+     url('./fonts/Kodchasan-Regular.woff') format('woff'),
+     url('./fonts/Kodchasan-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Fahkwang-Regular';
+src: url('./fonts/Fahkwang-Regular.eot');
+src: url('./fonts/Fahkwang-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Fahkwang-Regular.woff2') format('woff2'),
+     url('./fonts/Fahkwang-Regular.woff') format('woff'),
+     url('./fonts/Fahkwang-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Charmonman-Regular';
+src: url('./fonts/Charmonman-Regular.eot');
+src: url('./fonts/Charmonman-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Charmonman-Regular.woff2') format('woff2'),
+     url('./fonts/Charmonman-Regular.woff') format('woff'),
+     url('./fonts/Charmonman-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Charm-Regular';
+src: url('./fonts/Charm-Regular.eot');
+src: url('./fonts/Charm-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Charm-Regular.woff2') format('woff2'),
+     url('./fonts/Charm-Regular.woff') format('woff'),
+     url('./fonts/Charm-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'ChakraPetch-Regular';
+src: url('./fonts/ChakraPetch-Regular.eot');
+src: url('./fonts/ChakraPetch-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/ChakraPetch-Regular.woff2') format('woff2'),
+     url('./fonts/ChakraPetch-Regular.woff') format('woff'),
+     url('./fonts/ChakraPetch-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Bai-Jamjuree-Regular';
+src: url('./fonts/Bai-Jamjuree-Regular.eot');
+src: url('./fonts/Bai-Jamjuree-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Bai-Jamjuree-Regular.woff2') format('woff2'),
+     url('./fonts/Bai-Jamjuree-Regular.woff') format('woff'),
+     url('./fonts/Bai-Jamjuree-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Srisakdi-Regular';
+src: url('./fonts/Srisakdi-Regular.eot');
+src: url('./fonts/Srisakdi-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Srisakdi-Regular.woff2') format('woff2'),
+     url('./fonts/Srisakdi-Regular.woff') format('woff'),
+     url('./fonts/Srisakdi-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Thasadith-Regular';
+src: url('./fonts/Thasadith-Regular.eot');
+src: url('./fonts/Thasadith-Regular.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/Thasadith-Regular.woff2') format('woff2'),
+     url('./fonts/Thasadith-Regular.woff') format('woff'),
+     url('./fonts/Thasadith-Regular.ttf') format('truetype');
+}
+
+@font-face {
     font-family: 'Sriracha-Regular';
     src: url('./fonts/Sriracha-Regular.eot');
     src: url('./fonts/Sriracha-Regular.eot?#iefix') format('embedded-opentype'),
@@ -148,6 +382,22 @@
   padding-bottom: 30px;
 }
 
+#block-5-menu {
+  padding-bottom: 30px;
+}
+
+#block-6-menu {
+  padding-bottom: 30px;
+}
+
+#block-7-menu {
+  padding-bottom: 30px;
+}
+
+#block-8-menu {
+  padding-bottom: 30px;
+}
+
 #block-1-header {
   font-family: 'Sriracha-Regular';
   font-size: 24pt;
@@ -225,6 +475,104 @@
 }
 #block-12-header {
   font-family: 'Kanit-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-13-header {
+  font-family: 'K2D-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-14-header {
+  font-family: 'Krub-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-15-header {
+  font-family: 'Sarabun-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-16-header {
+  font-family: 'Niramit-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-17-header {
+  font-family: 'Mali-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-18-header {
+  font-family: 'KoHo-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-19-header {
+  font-family: 'Kodchasan-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-20-header {
+  font-family: 'Fahkwang-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-21-header {
+  font-family: 'Charmonman-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-22-header {
+  font-family: 'Charm-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-23-header {
+  font-family: 'ChakraPetch-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-24-header {
+  font-family: 'Bai-Jamjuree-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-25-header {
+  font-family: 'Srisakdi-Regular';
+  font-size: 24pt;
+  line-height: 180%;
+  text-align: center;
+}
+
+#block-26-header {
+  font-family: 'Thasadith-Regular';
   font-size: 24pt;
   line-height: 180%;
   text-align: center;
