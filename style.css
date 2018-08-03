@@ -356,9 +356,10 @@ src: url('./fonts/Thasadith-Regular.eot?#iefix') format('embedded-opentype'),
 }
 
 #text {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Sarabun-Regular';
   font-weight: 400;
   font-size: 12pt;
+  line-height: 1.6;
   text-align: left;
 }
 
